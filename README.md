@@ -1,12 +1,17 @@
----
-title: Blog Generation
-emoji: 🐨
-colorFrom: yellow
-colorTo: pink
-sdk: streamlit
-sdk_version: 1.29.0
-app_file: app.py
-pinned: false
----
+<h1 align="center">Blog_Generator_AI</h1>
 
-App link -> https://huggingface.co/spaces/Kabirsingla/Blog_Generation
+
+## Solution: AI-Powered Blog generation Tool
+### Enhanced Ideation
+The core offering is an algorithmic tool infused with generative AI. This tool doesn't replace human expertise; rather, it assists stakeholders in making sharper, more efficient, and less biased Blogs. 
+
+## Try your hands on the EcoGenius
+Click ->  https://huggingface.co/spaces/Kabirsingla/Blog_Generation
+
+Click on the above link to go to huggingface UI 
+
+## How it Works
+
+Users interact with the program's UI by inputting their business idea and specifying the number of ideas they seek (ranging from 1 to 3). 
+
+
