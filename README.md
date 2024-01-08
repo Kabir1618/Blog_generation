@@ -5,7 +5,7 @@
 ### Enhanced Ideation
 The core offering is an algorithmic tool infused with generative AI. This tool doesn't replace human expertise; rather, it assists stakeholders in making sharper, more efficient, and less biased Blogs. 
 
-## Try your hands on the EcoGenius
+## Try your hands on 
 Click ->  https://huggingface.co/spaces/Kabirsingla/Blog_Generation
 
 Click on the above link to go to huggingface UI 
